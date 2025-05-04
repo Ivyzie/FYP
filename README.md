@@ -19,8 +19,8 @@ This project implements an anti-cheat system for CS:GO using computer vision tec
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/Ivyzie/FYP.git
+   cd FYP
    ```
 
 2. Create a virtual environment (optional but recommended):
